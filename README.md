@@ -1,4 +1,4 @@
-# GroceryDeliveryApp
+# Grocery Delivery App
 
 **Delivery Boy App Features:**
 - Delivery boy can login with mobile number
